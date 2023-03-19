@@ -1,28 +1,3 @@
-/*
-var num=1;
-function fizzBuzz()
-    {  
-          if(num%3==0&&num%5==0)
-              out.push("fizzbuzz");
-        else if(num%3==0)
-            out.push("fizz");
-        else if(num%5==0)
-             out.push("buzz");
-        else
-        out.push(num);
-        console.log(out);
-    
-    }
-for(num=1;num<=100;num++)
-{
-    fizzBuzz(num);
-}
-*/
-
-
-
-
-
 var num=1;
 function fizzBuzz()
     {  
